@@ -1,5 +1,4 @@
 import { Link } from "gatsby"
-// tslint:disable-next-line:no-submodule-imports
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import * as React from "react"
 import { ComponentProps } from "react"

@@ -1,13 +1,14 @@
 import React from "react"
 import Layout from "../components/layout"
 
+const AuthorInformation = () => {
 
-const ShikaBlogPages = () => {
     return (
         <Layout>
-            <h1>Shika Blog</h1>
+            <h1>Shika</h1>
         </Layout>
     )
 }
 
-export default ShikaBlogPages
+
+export default AuthorInformation

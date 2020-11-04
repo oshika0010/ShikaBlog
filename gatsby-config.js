@@ -2,10 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Shika Blog`,
     author: `Shika`,
-    description: `Gatsby hands on by Shika`,
-    social: {
-      twitter: `oshikatomo`,
-    },
+    category: ["React", "Gatsby"],
+    user: {
+      name: "Oshika Tomo",
+      email: "oshika.tomo@gmail.com"
+    }
   },
   plugins: [
     {
